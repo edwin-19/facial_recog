@@ -5,5 +5,5 @@
 - numpy
 - csv
 
--- Code was written in python 3
--- The following project was done on the anaconda distribution
+- Code was written in python 3
+- The following project was done on the anaconda distribution
